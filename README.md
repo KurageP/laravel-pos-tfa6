@@ -95,3 +95,10 @@ It updates matching sample records instead of duplicating them.
 
 This activity implements customer and user listings.
 Authentication and sales processing are outside this implementation.
+
+## Live Demo
+
+https://laravel-pos-tfa6-izc9.onrender.com
+
+The free hosting service may take about a minute to wake up after inactivity.
+Sample records are recreated automatically when the service starts.
